@@ -13,3 +13,5 @@ Este é um projeto simples para realizar um sorteio de **Amigo Secreto** usando 
 - HTML
 - CSS
 - JavaScript
+
+![image](https://github.com/user-attachments/assets/c985858a-db80-4b7c-91c4-c2d33e9e18f0)
