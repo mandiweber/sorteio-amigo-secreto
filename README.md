@@ -1,4 +1,4 @@
-# Sorteio de Amigo Secreto
+# 🎁 Sorteio de Amigo Secreto
 
 Este é um projeto simples para realizar um sorteio de **Amigo Secreto** usando JavaScript. Ele permite adicionar amigos a uma lista, exibir os nomes inseridos e realizar um sorteio aleatório.
 
@@ -10,8 +10,10 @@ Este é um projeto simples para realizar um sorteio de **Amigo Secreto** usando 
 - Efeito de confetes ao sortear
 
 ## 💻 Tecnologias Utilizadas
-- HTML
-- CSS
 - JavaScript
 
+### 🔗 Acesse o projeto  
+Você pode visualizar o site aqui: https://sorteio-amigo-secreto-beta.vercel.app/
+
+### 📷 Prévia do projeto  
 ![image](https://github.com/user-attachments/assets/c985858a-db80-4b7c-91c4-c2d33e9e18f0)
